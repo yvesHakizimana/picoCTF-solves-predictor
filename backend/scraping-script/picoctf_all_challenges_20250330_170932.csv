@@ -1,0 +1,415 @@
+id,name,author,difficulty,event,category,tags,users_solved,event_points,solved_by_user,bookmarked
+492,SSTI1,Venax,1,picoCTF 2025,Web Exploitation,browser_webshell_solvable,5942,100,True,False
+490,PIE TIME,Darkraicg492,1,picoCTF 2025,Binary Exploitation,browser_webshell_solvable,3216,75,False,False
+482,n0s4n1ty 1,Prince Niyonshuti N.,1,picoCTF 2025,Web Exploitation,browser_webshell_solvable,4372,100,True,False
+476,head-dump,Prince Niyonshuti N.,1,picoCTF 2025,Web Exploitation,browser_webshell_solvable,5660,50,True,False
+475,hashcrack,Nana Ama Atombo-Sackey,1,picoCTF 2025,Cryptography,browser_webshell_solvable,7251,100,False,False
+472,Flag Hunters,syreal,1,picoCTF 2025,Reverse Engineering,browser_webshell_solvable,3720,75,False,False
+471,FANTASY CTF,syreal,1,picoCTF 2025,General Skills,browser_webshell_solvable,10007,10,False,False
+470,EVEN RSA CAN BE BROKEN???,Michael Crotty,1,picoCTF 2025,Cryptography,browser_webshell_solvable,3953,200,False,False
+469,Cookie Monster Secret Recipe,Brhane Giday and Prince Niyonshuti N.,1,picoCTF 2025,Web Exploitation,browser_webshell_solvable,8188,50,True,False
+463,Rust fixme 3,Taylor McCampbell,1,picoCTF 2025,General Skills,,3338,100,False,False
+462,Rust fixme 2,Taylor McCampbell,1,picoCTF 2025,General Skills,,3434,100,False,False
+461,Rust fixme 1,Taylor McCampbell,1,picoCTF 2025,General Skills,,3753,100,False,False
+460,RED,Shuailin Pan (LeConjuror),1,picoCTF 2025,Forensics,browser_webshell_solvable,4414,100,False,False
+459,Ph4nt0m 1ntrud3r,Prince Niyonshuti N.,1,picoCTF 2025,Forensics,browser_webshell_solvable,3744,50,False,False
+450,Verify,Jeffery John,1,picoCTF 2024,Forensics,"browser_webshell_solvable, checksum, grep",46433,50,False,False
+444,Scan Surprise,Jeffery John,1,picoCTF 2024,Forensics,"browser_webshell_solvable, qr_code, shell",51653,50,False,False
+442,Binary Search,Jeffery John,1,picoCTF 2024,General Skills,"browser_webshell_solvable, ls, shell",44172,100,False,False
+438,heap 0,"Abrxs, pr1or1tyQ",1,picoCTF 2024,Binary Exploitation,"browser_webshell_solvable, heap",27534,50,False,False
+433,format string 0,Cheng Zhang,1,picoCTF 2024,Binary Exploitation,"browser_webshell_solvable, format_string",25099,50,False,False
+427,WebDecode,Nana Ama Atombo-Sackey,1,picoCTF 2024,Web Exploitation,browser_webshell_solvable,60439,50,True,False
+426,Unminify,Jeffery John,1,picoCTF 2024,Web Exploitation,"browser_webshell_solvable, minification, obfuscation",50700,100,True,False
+425,Time Machine,Jeffery John,1,picoCTF 2024,General Skills,"browser_webshell_solvable, git",38387,50,False,False
+424,Super SSH,Jeffery John,1,picoCTF 2024,General Skills,"browser_webshell_solvable, shell, ssh",53591,25,False,False
+423,Secret of the Polyglot,syreal,1,picoCTF 2024,Forensics,"file_format, polyglot",28669,100,False,False
+419,IntroToBurp,Nana Ama Atombo-Sackey & Sabine Gisagara,1,picoCTF 2024,Web Exploitation,,26167,100,True,False
+418,interencdec,NGIRIMANA Schadrack,1,picoCTF 2024,Cryptography,"base64, browser_webshell_solvable, caesar",35742,50,False,False
+414,endianness,Nana Ama Atombo-Sackey,1,picoCTF 2024,General Skills,browser_webshell_solvable,18025,200,False,False
+411,Commitment Issues,Jeffery John,1,picoCTF 2024,General Skills,"browser_webshell_solvable, git",24512,50,False,False
+410,Collaborative Development,Jeffery John,1,picoCTF 2024,General Skills,"browser_webshell_solvable, git",17982,75,False,False
+408,CanYouSee,Mubarak Mikail,1,picoCTF 2024,Forensics,browser_webshell_solvable,27270,100,False,False
+406,Bookmarklet,Jeffery John,1,picoCTF 2024,Web Exploitation,"browser, browser_webshell_solvable, obfuscation",41892,50,True,False
+405,Blame Game,Jeffery John,1,picoCTF 2024,General Skills,"browser_webshell_solvable, git",20871,75,False,False
+404,binhexa,Nana Ama Atombo-Sackey,1,picoCTF 2024,General Skills,browser_webshell_solvable,18304,100,False,False
+371,repetitions,Theoneste Byagutangaza,1,picoCTF 2023,General Skills,base64,32483,100,False,False
+322,Big Zip,LT 'syreal' Jones,1,N/A,General Skills,,46145,100,False,False
+320,First Find,LT 'syreal' Jones,1,N/A,General Skills,,52178,100,False,False
+278,Local Authority,LT 'syreal' Jones,1,picoCTF 2022,Web Exploitation,inspector,60707,100,True,False
+275,Inspect HTML,LT 'syreal' Jones,1,picoCTF 2022,Web Exploitation,inspector,79802,100,True,False
+274,Includes,LT 'syreal' Jones,1,picoCTF 2022,Web Exploitation,inspector,61446,100,True,False
+250,runme.py,Sujeet Kumar,1,Beginner picoMini 2022,General Skills,Python,55147,5,False,False
+246,PW Crack 2,LT 'syreal' Jones,1,Beginner picoMini 2022,General Skills,password_cracking,55089,35,False,False
+245,PW Crack 1,LT 'syreal' Jones,1,Beginner picoMini 2022,General Skills,password_cracking,57846,25,False,False
+243,HashingJobApp,LT 'syreal' Jones,1,Beginner picoMini 2022,General Skills,"Python, hashing, nc, shell",49014,40,False,False
+242,Glitch Cat,LT 'syreal' Jones,1,Beginner picoMini 2022,General Skills,"Python, nc, shell",51994,30,False,False
+241,fixme2.py,LT 'syreal' Jones,1,Beginner picoMini 2022,General Skills,Python,56367,25,False,False
+240,fixme1.py,LT 'syreal' Jones,1,Beginner picoMini 2022,General Skills,Python,58289,25,False,False
+239,convertme.py,LT 'syreal' Jones,1,Beginner picoMini 2022,General Skills,"Python, base",61574,15,False,False
+238,Codebook,LT 'syreal' Jones,1,Beginner picoMini 2022,General Skills,"Python, shell",56801,20,False,False
+189,Magikarp Ground Mission,syreal,1,picoCTF 2021,General Skills,,83807,30,False,False
+186,information,susie,1,picoCTF 2021,Forensics,,127569,10,False,False
+176,"Tab, Tab, Attack",syreal,1,picoCTF 2021,General Skills,,96326,20,False,False
+173,Cookies,madStacks,1,picoCTF 2021,Web Exploitation,,82527,40,True,False
+170,Wave a flag,syreal,1,picoCTF 2021,General Skills,,176916,10,False,False
+166,Python Wrangling,syreal,1,picoCTF 2021,General Skills,,151477,10,False,False
+163,Static ain't always noise,syreal,1,picoCTF 2021,General Skills,,87490,20,False,False
+161,Scavenger Hunt,madStacks,1,picoCTF 2021,Web Exploitation,,68979,50,True,False
+156,Nice netcat...,syreal,1,picoCTF 2021,General Skills,,143007,15,False,False
+147,Obedient Cat,syreal,1,picoCTF 2021,General Skills,,297925,5,False,False
+144,Mod 26,Pandu,1,picoCTF 2021,Cryptography,,256017,10,False,False
+132,GET aHEAD,madStacks,1,picoCTF 2021,Web Exploitation,,100045,20,True,False
+104,Transformation,madStacks,1,picoCTF 2021,Reverse Engineering,,63823,20,False,False
+86,2Warm,Sanjay C/Danny Tunitis,1,picoCTF 2019,General Skills,,122776,50,False,False
+85,First Grep,Alex Fulton/Danny Tunitis,1,picoCTF 2019,General Skills,,89940,100,False,False
+68,The Numbers,Danny,1,picoCTF 2019,Cryptography,,91763,50,False,False
+67,Bases,Sanjay C/Danny T,1,picoCTF 2019,General Skills,,85877,100,False,False
+66,dont-use-client-side,Alex Fulton/Danny,1,picoCTF 2019,Web Exploitation,,74889,100,True,False
+62,13,Alex Fulton/Daniel Tunitis,1,picoCTF 2019,Cryptography,,80015,100,False,False
+58,Warmed Up,Sanjay C/Danny Tunitis,1,picoCTF 2019,General Skills,,123371,50,False,False
+46,logon,bobson,1,picoCTF 2019,Web Exploitation,,73381,100,False,False
+44,Glory of the Garden,jedavis/Danny,1,picoCTF 2019,Forensics,,76034,50,False,False
+37,strings it,Sanjay C/Danny Tunitis,1,picoCTF 2019,General Skills,,84714,100,False,False
+34,what's a net cat?,Sanjay C/Danny Tunitis,1,picoCTF 2019,General Skills,,111999,100,False,False
+22,Lets Warm Up,Sanjay C/Danny Tunitis,1,picoCTF 2019,General Skills,,136916,50,False,False
+18,Insp3ct0r,zaratec/danny,1,picoCTF 2019,Web Exploitation,,135391,50,False,False
+7,vault-door-training,Mark E. Haase,1,picoCTF 2019,Reverse Engineering,,70084,50,False,False
+4,where are the robots,zaratec/Danny,1,picoCTF 2019,Web Exploitation,,97307,100,False,False
+494,Pachinko,notdeghost,2,picoCTF 2025,Web Exploitation,browser_webshell_solvable,1801,300,True,False
+491,PIE TIME 2,Darkraicg492,2,picoCTF 2025,Binary Exploitation,browser_webshell_solvable,1006,200,False,False
+489,hash-only-2,Junias Bonou,2,picoCTF 2025,Binary Exploitation,browser_webshell_solvable,1457,200,False,False
+488,SSTI2,Venax,2,picoCTF 2025,Web Exploitation,browser_webshell_solvable,1789,200,True,False
+487,hash-only-1,Junias Bonou,2,picoCTF 2025,Binary Exploitation,browser_webshell_solvable,2009,100,False,False
+485,Echo Valley,Shuailin Pan (LeConjuror),2,picoCTF 2025,Binary Exploitation,browser_webshell_solvable,497,300,False,False
+484,3v@l,Theoneste Byagutangaza,2,picoCTF 2025,Web Exploitation,browser_webshell_solvable,2270,200,True,False
+483,YaraRules0x100,Nandan Desai / syreal,2,picoCTF 2025,General Skills,browser_webshell_solvable,534,200,False,False
+481,flags are stepic,Ricky,2,picoCTF 2025,Forensics,browser_webshell_solvable,1779,100,False,False
+480,WebSockFish,Venax,2,picoCTF 2025,Web Exploitation,browser_webshell_solvable,1532,200,True,False
+479,Quantum Scrambler,Michael Crotty,2,picoCTF 2025,Reverse Engineering,browser_webshell_solvable,1322,200,False,False
+474,Guess My Cheese (Part 2),aditin,2,picoCTF 2025,Cryptography,browser_webshell_solvable,430,300,False,False
+473,Guess My Cheese (Part 1),aditin,2,picoCTF 2025,Cryptography,browser_webshell_solvable,2131,200,False,False
+468,Chronohack,Theoneste Byagutangaza,2,picoCTF 2025,Reverse Engineering,browser_webshell_solvable,747,200,False,False
+467,Apriti sesamo,Junias Bonou,2,picoCTF 2025,Web Exploitation,browser_webshell_solvable,1212,300,True,False
+466,Tap into Hash,NGIRIMANA Schadrack,2,picoCTF 2025,Reverse Engineering,browser_webshell_solvable,1615,200,False,False
+458,perplexed,SkrubLawd,2,picoCTF 2025,Reverse Engineering,browser_webshell_solvable,762,400,False,False
+456,Event-Viewing,Venax,2,picoCTF 2025,Forensics,browser_webshell_solvable,2028,200,False,False
+454,Bitlocker-2,Venax,2,picoCTF 2025,Forensics,,598,300,False,False
+453,Bitlocker-1,Venax,2,picoCTF 2025,Forensics,,1323,200,False,False
+452,Binary Instrumentation 2,Venax,2,picoCTF 2025,Reverse Engineering,,580,300,True,False
+451,Binary Instrumentation 1,Venax,2,picoCTF 2025,Reverse Engineering,,779,200,True,False
+449,format string 3,SkrubLawd,2,picoCTF 2024,Binary Exploitation,"browser_webshell_solvable, format_string",1214,300,False,False
+448,format string 2,SkrubLawd,2,picoCTF 2024,Binary Exploitation,"browser_webshell_solvable, format_string",2016,200,False,False
+445,Trickster,Junias Bonou,2,picoCTF 2024,Web Exploitation,browser_webshell_solvable,10097,300,True,False
+443,No Sql Injection,NGIRIMANA Schadrack,2,picoCTF 2024,Web Exploitation,browser_webshell_solvable,5457,200,True,False
+440,heap 3,Abrxs,2,picoCTF 2024,Binary Exploitation,"browser_webshell_solvable, heap",3013,200,False,False
+439,heap 1,"Abrxs, pr1or1tyQ",2,picoCTF 2024,Binary Exploitation,"browser_webshell_solvable, heap",8909,100,False,False
+437,dont-you-love-banners,Loic Shema / syreal,2,picoCTF 2024,General Skills,"browser_webshell_solvable, shell",9413,300,False,False
+436,SansAlpha,syreal,2,picoCTF 2024,General Skills,"bash, browser_webshell_solvable, shell_escape, ssh",4103,400,False,False
+435,heap 2,"Abrxs, pr1or1tyQ",2,picoCTF 2024,Binary Exploitation,"browser_webshell_solvable, heap",3314,200,False,False
+434,format string 1,syreal,2,picoCTF 2024,Binary Exploitation,"browser_webshell_solvable, format_string",4496,100,False,False
+432,Blast from the past,syreal,2,picoCTF 2024,Forensics,"browser_webshell_solvable, metadata",3172,300,False,False
+431,WinAntiDbg0x300,Nandan Desai,2,picoCTF 2024,Reverse Engineering,windows,676,400,False,False
+430,WinAntiDbg0x200,Nandan Desai,2,picoCTF 2024,Reverse Engineering,windows,1451,300,False,False
+429,WinAntiDbg0x100,Nandan Desai,2,picoCTF 2024,Reverse Engineering,windows,1981,200,False,False
+428,weirdSnake,Junias Bonou,2,picoCTF 2024,Reverse Engineering,"browser_webshell_solvable, Python",2209,300,False,False
+422,rsa_oracle,Geoffrey Njogu,2,picoCTF 2024,Cryptography,browser_webshell_solvable,2106,300,False,False
+421,packer,Mubarak Mikail,2,picoCTF 2024,Reverse Engineering,browser_webshell_solvable,6550,100,False,False
+420,Mob psycho,NGIRIMANA Schadrack,2,picoCTF 2024,Forensics,"apk, browser_webshell_solvable",6730,200,False,False
+416,FactCheck,Junias Bonou,2,picoCTF 2024,Reverse Engineering,browser_webshell_solvable,2402,200,False,False
+415,endianness-v2,Junias Bonou,2,picoCTF 2024,Forensics,browser_webshell_solvable,3942,300,False,False
+413,Dear Diary,syreal,2,picoCTF 2024,Forensics,"browser_webshell_solvable, disk",2741,400,False,False
+412,Custom encryption,NGIRIMANA Schadrack,2,picoCTF 2024,Cryptography,"ASCII_encoding, XOR, browser_webshell_solvable",5716,100,False,False
+409,Classic Crackme 0x100,Nandan Desai,2,picoCTF 2024,Reverse Engineering,browser_webshell_solvable,1982,300,False,False
+407,C3,Matt Superdock,2,picoCTF 2024,Cryptography,browser_webshell_solvable,3578,200,False,False
+403,Picker IV,LT 'syreal' Jones,2,N/A,Binary Exploitation,,3914,100,False,False
+402,Picker III,LT 'syreal' Jones,2,N/A,Reverse Engineering,Python,4691,100,False,False
+401,Picker II,LT 'syreal' Jones,2,N/A,Reverse Engineering,Python,6262,100,False,False
+400,Picker I,LT 'syreal' Jones,2,N/A,Reverse Engineering,Python,9243,100,False,False
+399,Local Target,OverTheWire.org / LT 'syreal' Jones,2,N/A,Binary Exploitation,gets,3949,100,False,False
+398,GDB baby step 4,LT 'syreal' Jones,2,N/A,Reverse Engineering,x86_64,4592,100,False,False
+397,GDB baby step 3,LT 'syreal' Jones,2,N/A,Reverse Engineering,x86_64,4498,100,False,False
+396,GDB baby step 2,LT 'syreal' Jones,2,N/A,Reverse Engineering,x86_64,5859,100,False,False
+395,GDB baby step 1,LT 'syreal' Jones,2,N/A,Reverse Engineering,x86_64,6999,100,False,False
+394,Bit-O-Asm-4,LT 'syreal' Jones,2,N/A,Reverse Engineering,x86_64,5678,100,False,False
+393,Bit-O-Asm-3,LT 'syreal' Jones,2,N/A,Reverse Engineering,x86_64,6118,100,False,False
+392,Bit-O-Asm-2,LT 'syreal' Jones,2,N/A,Reverse Engineering,x86_64,6896,100,False,False
+391,Bit-O-Asm-1,LT 'syreal' Jones,2,N/A,Reverse Engineering,x86_64,8091,100,False,False
+390,ASCII Numbers,LT 'syreal' Jones,2,N/A,General Skills,,24753,100,False,False
+389,ASCII FTW,Abhishek Agarwal,2,N/A,Reverse Engineering,,5821,100,False,False
+387,VNE,Junias Bonou,2,picoCTF 2023,Binary Exploitation,"bash, env, injection",2836,200,False,False
+385,Virtual Machine 0,LT 'syreal' Jones,2,picoCTF 2023,Reverse Engineering,Analog,2107,100,False,False
+384,useless,Loic Shema,2,picoCTF 2023,General Skills,man,16804,100,False,False
+382,two-sum,Mubarak Mikail,2,picoCTF 2023,Binary Exploitation,"C, make",8096,100,False,False
+381,timer,Loic Shema,2,picoCTF 2023,Reverse Engineering,android,7637,100,False,False
+378,Specialer,"LT 'syreal' Jones, et al.",2,picoCTF 2023,General Skills,"bash, ssh",9043,400,False,False
+377,Special,LT 'syreal' Jones,2,picoCTF 2023,General Skills,"bash, ssh",9922,300,False,False
+376,SOAP,Geoffrey Njogu,2,picoCTF 2023,Web Exploitation,XXE,14251,100,True,False
+375,Safe Opener 2,Mubarak Mikail,2,picoCTF 2023,Reverse Engineering,,12640,100,False,False
+373,rotation,Loic Shema,2,picoCTF 2023,Cryptography,,21506,100,False,False
+372,Reverse,Mubarak Mikail,2,picoCTF 2023,Reverse Engineering,,14338,100,False,False
+370,Ready Gladiator 2,LT 'syreal' Jones,2,picoCTF 2023,Reverse Engineering,CoreWars,1787,400,False,False
+369,Ready Gladiator 1,LT 'syreal' Jones,2,picoCTF 2023,Reverse Engineering,CoreWars,3018,200,False,False
+368,Ready Gladiator 0,LT 'syreal' Jones,2,picoCTF 2023,Reverse Engineering,CoreWars,6892,100,False,False
+367,ReadMyCert,Sunday Jacob Nwanyim,2,picoCTF 2023,Cryptography,,17651,100,False,False
+363,Permissions,Geoffrey Njogu,2,picoCTF 2023,General Skills,vim,16800,100,False,False
+362,PcapPoisoning,Mubarak Mikail,2,picoCTF 2023,Forensics,pcap,16450,100,False,False
+359,MSB,LT 'syreal' Jones,2,picoCTF 2023,Forensics,steganography,5486,200,False,False
+358,More SQLi,Mubarak Mikail,2,picoCTF 2023,Web Exploitation,sql,14001,200,True,False
+356,MatchTheRegex,Sunday Jacob Nwanyim,2,picoCTF 2023,Web Exploitation,,19396,100,True,False
+355,Java Code Analysis!?!,Nandan Desai,2,picoCTF 2023,Web Exploitation,,4960,300,True,False
+352,hijacking,Theoneste Byagutangaza,2,picoCTF 2023,Binary Exploitation,privilege_escalation,2539,200,False,False
+351,HideToSee,Sunday Jacob Nwanyim,2,picoCTF 2023,Cryptography,,11591,100,False,False
+350,hideme,Geoffrey Njogu,2,picoCTF 2023,Forensics,steganography,13893,100,False,False
+349,findme,Geoffrey Njogu,2,picoCTF 2023,Web Exploitation,,21589,100,True,False
+348,FindAndOpen,Mubarak Mikail,2,picoCTF 2023,Forensics,,7085,200,False,False
+347,chrono,Mubarak Mikail,2,picoCTF 2023,General Skills,linux,16539,100,False,False
+345,babygame01,Palash Oswal,2,picoCTF 2023,Binary Exploitation,game,4121,100,False,False
+319,x-sixty-what,Sanjay C / LT 'syreal' Jones,2,picoCTF 2022,Binary Exploitation,x64,3428,200,False,False
+316,Vigenere,Mubarak Mikail,2,picoCTF 2022,Cryptography,,27724,100,False,False
+314,unpackme.py,LT 'syreal' Jones,2,picoCTF 2022,Reverse Engineering,packing,14781,100,False,False
+313,unpackme,LT 'syreal' Jones,2,picoCTF 2022,Reverse Engineering,"binary, packed",5448,300,False,False
+312,transposition-trial,Will Hong,2,picoCTF 2022,Cryptography,cryptography,12563,100,False,False
+311,Torrent Analyze,Mubarak Mikail,2,picoCTF 2022,Forensics,,4012,400,False,False
+309,substitution2,Will Hong,2,picoCTF 2022,Cryptography,Substitution,15353,100,False,False
+308,substitution1,Will Hong,2,picoCTF 2022,Cryptography,Substitution_cipher,15107,100,False,False
+307,substitution0,Will Hong,2,picoCTF 2022,Cryptography,Substitution,22209,100,False,False
+305,St3g0,LT 'syreal' Jones (ft. djrobin17),2,picoCTF 2022,Forensics,steganography,10704,300,False,False
+304,SQLiLite,Mubarak Mikail,2,picoCTF 2022,Web Exploitation,sql,23994,300,True,False
+303,SQL Direct,Mubarak Mikail / LT 'syreal' Jones,2,picoCTF 2022,Web Exploitation,sql,19034,200,True,False
+301,Sleuthkit Intro,LT 'syreal' Jones,2,picoCTF 2022,Forensics,sleuthkit,20418,100,False,False
+300,Sleuthkit Apprentice,LT 'syreal' Jones,2,picoCTF 2022,Forensics,disk,13856,200,False,False
+296,Secrets,Geoffrey Njogu,2,picoCTF 2022,Web Exploitation,,23613,200,True,False
+295,Search source,Mubarak Mikail,2,picoCTF 2022,Web Exploitation,,33052,100,True,False
+294,Safe Opener,Mubarak Mikail,2,picoCTF 2022,Reverse Engineering,,18723,100,False,False
+293,RPS,Will Hong,2,picoCTF 2022,Binary Exploitation,,8396,200,False,False
+291,Roboto Sans,Mubarak Mikail,2,picoCTF 2022,Web Exploitation,,21994,200,True,False
+290,Redaction gone wrong,Mubarak Mikail,2,picoCTF 2022,Forensics,,19552,100,False,False
+289,rail-fence,Will Hong,2,picoCTF 2022,Cryptography,,16267,100,False,False
+288,Power Cookie,LT 'syreal' Jones,2,picoCTF 2022,Web Exploitation,cookie,29600,200,True,False
+287,patchme.py,LT 'syreal' Jones,2,picoCTF 2022,Reverse Engineering,,17879,100,False,False
+286,Packets Primer,LT 'syreal' Jones,2,picoCTF 2022,Forensics,pcap,24050,100,False,False
+285,Operation Orchid,LT 'syreal' Jones,2,picoCTF 2022,Forensics,disk,7365,400,False,False
+284,Operation Oni,LT 'syreal' Jones,2,picoCTF 2022,Forensics,disk,4278,300,False,False
+280,morse-code,Will Hong,2,picoCTF 2022,Cryptography,morse_code,18062,100,False,False
+279,Lookey here,LT 'syreal' Jones / Mubarak Mikail,2,picoCTF 2022,Forensics,grep,25648,100,False,False
+273,GDB Test Drive,LT 'syreal' Jones,2,picoCTF 2022,Reverse Engineering,"binary, gdb",15055,100,False,False
+271,Fresh Java,LT 'syreal' Jones,2,picoCTF 2022,Reverse Engineering,Java,9661,200,False,False
+270,Forbidden Paths,LT 'syreal' Jones,2,picoCTF 2022,Web Exploitation,,26367,200,True,False
+269,flag leak,Neel Bhavsar,2,picoCTF 2022,Binary Exploitation,format_string,3504,300,False,False
+268,File types,Geoffrey Njogu,2,picoCTF 2022,Forensics,,9996,100,False,False
+267,file-run2,Will Hong,2,picoCTF 2022,Reverse Engineering,,21075,100,False,False
+266,file-run1,Will Hong,2,picoCTF 2022,Reverse Engineering,,24486,100,False,False
+265,Enhance!,LT 'syreal' Jones,2,picoCTF 2022,Forensics,svg,30477,100,False,False
+264,Eavesdrop,LT 'syreal' Jones,2,picoCTF 2022,Forensics,pcap,6647,300,False,False
+262,CVE-XXXX-XXXX,Mubarak Mikail,2,picoCTF 2022,Binary Exploitation,,19419,100,False,False
+261,credstuff,Will Hong / LT 'syreal' Jones,2,picoCTF 2022,Cryptography,,17739,100,False,False
+259,buffer overflow 2,Sanjay C / Palash Oswal,2,picoCTF 2022,Binary Exploitation,"arguments_on_the_stack, gets",4636,300,False,False
+258,buffer overflow 1,Sanjay C / Palash Oswal,2,picoCTF 2022,Binary Exploitation,,8864,200,False,False
+257,buffer overflow 0,Alex Fulton / Palash Oswal,2,picoCTF 2022,Binary Exploitation,gets,23388,100,False,False
+256,bloat.py,LT 'syreal' Jones,2,picoCTF 2022,Reverse Engineering,obfuscation,11008,200,False,False
+255,Bbbbloat,LT 'syreal' Jones,2,picoCTF 2022,Reverse Engineering,"binary, obfuscation",7209,300,False,False
+254,basic-mod2,Will Hong,2,picoCTF 2022,Cryptography,,15132,100,False,False
+253,basic-mod1,Will Hong,2,picoCTF 2022,Cryptography,,22093,100,False,False
+252,basic-file-exploit,Will Hong,2,picoCTF 2022,Binary Exploitation,,20003,100,False,False
+251,Serpentine,LT 'syreal' Jones,2,Beginner picoMini 2022,General Skills,Python,37337,50,False,False
+249,PW Crack 5,LT 'syreal' Jones,2,Beginner picoMini 2022,General Skills,"hashing, password_cracking",30712,100,False,False
+248,PW Crack 4,LT 'syreal' Jones,2,Beginner picoMini 2022,General Skills,"hashing, password_cracking",35209,85,False,False
+247,PW Crack 3,LT 'syreal' Jones,2,Beginner picoMini 2022,General Skills,"hashing, password_cracking",41847,75,False,False
+237,WPA-ing Out,MistressVampy,2,N/A,Forensics,,4574,200,False,False
+236,JAuth,Geoffrey Njogu,2,N/A,Web Exploitation,,5312,300,False,False
+216,clutter-overflow,notdeghost,2,picoMini by redpwn,Binary Exploitation,,4181,150,False,False
+210,spelling-quiz,BrownieInMotion,2,picoMini by redpwn,Cryptography,,5919,100,False,False
+205,advanced-potion-making,bigC,2,picoMini by redpwn,Forensics,,7881,100,False,False
+202,caas,BrownieInMotion,2,picoMini by redpwn,Web Exploitation,,18229,150,True,False
+200,login,BrownieInMotion,2,picoMini by redpwn,Web Exploitation,,47030,100,True,False
+188,Mini RSA,Sara,2,picoCTF 2021,Cryptography,,7121,70,False,False
+180,Super Serial,madStacks,2,picoCTF 2021,Web Exploitation,,7416,130,True,False
+177,Most Cookies,madStacks,2,picoCTF 2021,Web Exploitation,,6914,150,False,False
+175,crackme-py,syreal,2,picoCTF 2021,Reverse Engineering,,41377,30,False,False
+174,Web Gauntlet 2,madStacks,2,picoCTF 2021,Web Exploitation,,7537,170,False,False
+162,Mind your Ps and Qs,Sara,2,picoCTF 2021,Cryptography,,44605,20,False,False
+160,ARMssembly 0,Dylan McGuire,2,picoCTF 2021,Reverse Engineering,,9746,40,False,False
+159,Dachshund Attacks,Sara,2,picoCTF 2021,Cryptography,,8609,80,False,False
+158,New Caesar,madStacks,2,picoCTF 2021,Cryptography,,10338,60,False,False
+154,"No Padding, No Problem",Sara,2,picoCTF 2021,Cryptography,,4390,90,False,False
+152,Some Assembly Required 1,Sears Schulz,2,picoCTF 2021,Web Exploitation,,32777,70,True,False
+142,Who are you?,madStacks,2,picoCTF 2021,Web Exploitation,,23937,60,False,False
+139,Milkslap,James Lynch,2,picoCTF 2021,Forensics,,6086,200,False,False
+137,"Disk, disk, sleuth! II",syreal,2,picoCTF 2021,Forensics,,12258,130,False,False
+134,Shop,thelshell,2,picoCTF 2021,Reverse Engineering,,16341,50,False,False
+131,Some Assembly Required 2,Sears Schulz,2,picoCTF 2021,Web Exploitation,,7686,110,False,False
+130,MacroHard WeakEdge,madStacks,2,picoCTF 2021,Forensics,,18915,60,False,False
+129,Matryoshka doll,Susie/Pandu,2,picoCTF 2021,Forensics,,47953,30,False,False
+128,Web Gauntlet 3,madStacks,2,picoCTF 2021,Web Exploitation,,5039,300,False,False
+125,Easy Peasy,madStacks,2,picoCTF 2021,Cryptography,,11179,40,False,False
+124,More Cookies,madStacks,2,picoCTF 2021,Web Exploitation,,9216,90,False,False
+121,keygenme-py,syreal,2,picoCTF 2021,Reverse Engineering,,31340,30,False,False
+116,speeds and feeds,Ryan Ramseyer,2,picoCTF 2021,Reverse Engineering,,17445,50,False,False
+115,Wireshark doo dooo do doo...,Dylan,2,picoCTF 2021,Forensics,,34761,50,False,False
+113,"Disk, disk, sleuth!",syreal,2,picoCTF 2021,Forensics,,9634,110,False,False
+112,tunn3l v1s10n,Danny,2,picoCTF 2021,Forensics,,20653,40,False,False
+111,ARMssembly 1,Pranay Garg,2,picoCTF 2021,Reverse Engineering,,4273,70,False,False
+110,Wireshark twoo twooo two twoo...,Dylan,2,picoCTF 2021,Forensics,,10849,100,False,False
+109,It is my Birthday,madStacks,2,picoCTF 2021,Web Exploitation,,22247,100,False,False
+105,Stonks,madStacks,2,picoCTF 2021,Binary Exploitation,,31805,20,False,False
+103,Trivial Flag Transfer Protocol,Danny,2,picoCTF 2021,Forensics,,13196,90,False,False
+100,Pixelated,Sara,2,picoCTF 2021,Cryptography,,8315,200,False,False
+88,Web Gauntlet,madStacks,2,picoCTF 2020 Mini-Competition,Web Exploitation,,13004,1,False,False
+87,"Pitter, Patter, Platters",syreal,2,picoCTF 2020 Mini-Competition,Forensics,,5294,1,False,False
+84,shark on wire 2,Danny,2,picoCTF 2019,Forensics,,5087,300,False,False
+82,1_wanna_b3_a_r0ck5tar,Alex Bushkin,2,picoCTF 2019,General Skills,,18428,350,False,False
+81,like1000,Danny,2,picoCTF 2019,Forensics,,7034,250,False,False
+80,Irish-Name-Repo 1,Chris Hensler,2,picoCTF 2019,Web Exploitation,,21207,300,False,False
+77,vault-door-5,Mark E. Haase,2,picoCTF 2019,Reverse Engineering,,6629,300,False,False
+74,What Lies Within,Julio/Danny,2,picoCTF 2019,Forensics,,22107,150,False,False
+71,vault-door-4,Mark E. Haase,2,picoCTF 2019,Reverse Engineering,,8771,250,False,False
+69,Client-side-again,Danny,2,picoCTF 2019,Web Exploitation,,20953,200,False,False
+64,caesar,Sanjay C/Daniel Tunitis,2,picoCTF 2019,Cryptography,,50444,100,False,False
+60,vault-door-3,Mark E. Haase,2,picoCTF 2019,Reverse Engineering,,10354,200,False,False
+59,Irish-Name-Repo 2,Xingyang Pan,2,picoCTF 2019,Web Exploitation,,15233,350,False,False
+53,c0rrupt,Danny,2,picoCTF 2019,Forensics,,5150,250,False,False
+52,extensions,Sanjay C/Danny,2,picoCTF 2019,Forensics,,29097,150,False,False
+51,WhitePages,John Hammond,2,picoCTF 2019,Forensics,,5873,250,False,False
+49,flag_shop,Danny,2,picoCTF 2019,General Skills,,29649,300,False,False
+48,plumbing,Alex Fulton/Danny Tunitis,2,picoCTF 2019,General Skills,,43464,200,False,False
+45,vault-door-6,Mark E. Haase,2,picoCTF 2019,Reverse Engineering,,5129,350,False,False
+43,Easy1,Alex Fulton/Danny,2,picoCTF 2019,Cryptography,,40793,100,False,False
+40,Mr-Worldwide,Danny,2,picoCTF 2019,Cryptography,,14223,200,False,False
+38,waves over lambda,invisibility/danny,2,picoCTF 2019,Cryptography,,4842,300,False,False
+35,Based,Alex Fulton/Daniel Tunitis,2,picoCTF 2019,General Skills,,37195,200,False,False
+31,Flags,Danny,2,picoCTF 2019,Cryptography,,22211,200,False,False
+30,shark on wire 1,Danny,2,picoCTF 2019,Forensics,,20296,150,False,False
+26,m00nwalk,Joon,2,picoCTF 2019,Forensics,,5541,250,False,False
+25,JaWT Scratchpad,John Hammond,2,picoCTF 2019,Web Exploitation,,6036,400,False,False
+21,Tapping,Danny,2,picoCTF 2019,Cryptography,,19210,200,False,False
+20,asm1,Sanjay C,2,picoCTF 2019,Reverse Engineering,,6249,200,False,False
+19,So Meta,Kevin Cooper/Danny,2,picoCTF 2019,Forensics,,28951,150,False,False
+15,mus1c,Danny,2,picoCTF 2019,General Skills,,30277,300,False,False
+12,vault-door-1,Mark E. Haase,2,picoCTF 2019,Reverse Engineering,,31247,100,False,False
+9,picobrowser,Archit,2,picoCTF 2019,Web Exploitation,,32787,200,False,False
+8,Irish-Name-Repo 3,Xingyang Pan,2,picoCTF 2019,Web Exploitation,,12064,400,False,False
+6,john_pollard,Samuel S,2,picoCTF 2019,Cryptography,,5843,500,False,False
+3,la cifra de,Alex Fulton/Daniel Tunitis,2,picoCTF 2019,Cryptography,,13938,200,False,False
+496,secure-email-service,"ehhthing, strellic",3,picoCTF 2025,Web Exploitation,browser_webshell_solvable,30,500,False,False
+495,Ricochet,asinghani,3,picoCTF 2025,Cryptography,browser_webshell_solvable,58,500,False,False
+493,ChaCha Slide,asinghani,3,picoCTF 2025,Cryptography,browser_webshell_solvable,217,400,False,False
+486,handoff,SkrubLawd,3,picoCTF 2025,Binary Exploitation,browser_webshell_solvable,353,400,False,False
+478,Pachinko Revisited,notdeghost,3,picoCTF 2025,Web Exploitation,browser_webshell_solvable,21,500,False,False
+447,elements,ehhthing,3,picoCTF 2024,Web Exploitation,,694,500,False,False
+446,babygame03,Palash Oswal,3,picoCTF 2024,Binary Exploitation,game,353,400,False,False
+441,high frequency troubles,pepsipu,3,picoCTF 2024,Binary Exploitation,heap,95,500,False,False
+417,flag_printer,ehhthing,3,picoCTF 2024,Cryptography,browser_webshell_solvable,181,500,False,False
+386,Virtual Machine 1,LT 'syreal' Jones,3,picoCTF 2023,Reverse Engineering,Analog,399,300,False,False
+383,UnforgottenBits,LT 'syreal' Jones,3,picoCTF 2023,Forensics,disk,395,500,False,False
+380,tic-tac,Junias Bonou,3,picoCTF 2023,Binary Exploitation,"bash, linux, toctou",1388,200,False,False
+379,SRA,f0xtr0t,3,picoCTF 2023,Cryptography,rsa,739,400,False,False
+366,PowerAnalysis: Warmup,Anish Singhani,3,picoCTF 2023,Cryptography,,657,200,False,False
+365,PowerAnalysis: Part 2,Anish Singhani,3,picoCTF 2023,Cryptography,,301,500,False,False
+364,PowerAnalysis: Part 1,Anish Singhani,3,picoCTF 2023,Cryptography,,289,400,False,False
+361,No way out,Kris,3,picoCTF 2023,Reverse Engineering,,1542,200,False,False
+360,msfroggenerator2,ehhthing,3,picoCTF 2023,Web Exploitation,,509,500,False,False
+354,Invisible WORDs,LT 'syreal' Jones,3,picoCTF 2023,Forensics,steganography,843,300,False,False
+353,Horsetrack,madStacks,3,picoCTF 2023,Binary Exploitation,,147,300,False,False
+346,babygame02,Palash Oswal,3,picoCTF 2023,Binary Exploitation,game,812,200,False,False
+344,cancri-sp,NotDeGhost,3,picoCTF 2023,Web Exploitation,,29,500,False,False
+318,Wizardlike,LT 'syreal' Jones,3,picoCTF 2022,Reverse Engineering,"binary, game",1300,500,False,False
+317,wine,Neel Bhavsar,3,picoCTF 2022,Binary Exploitation,windows,1102,300,False,False
+315,Very Smooth,Joshua Inscoe,3,picoCTF 2022,Cryptography,"backdoor, rsa",1459,300,False,False
+310,Sum-O-Primes,Joshua Inscoe,3,picoCTF 2022,Cryptography,rsa,2129,400,False,False
+306,stack cache,Palash Oswal,3,picoCTF 2022,Binary Exploitation,"cache, compiler, undefined_behavior",865,400,False,False
+302,solfire,notdeghost,3,picoCTF 2022,Binary Exploitation,blockchain,17,500,False,False
+298,SideChannel,Anish Singhani,3,picoCTF 2022,Forensics,,2641,400,False,False
+297,Sequences,Anish Singhani,3,picoCTF 2022,Cryptography,,1251,400,False,False
+292,ropfu,Sanjay C / LT 'syreal' Jones,3,picoCTF 2022,Binary Exploitation,ROP,1880,300,False,False
+283,NSA Backdoor,Joshua Inscoe,3,picoCTF 2022,Cryptography,"backdoor, diffie_hellman, rsa",651,500,False,False
+282,noted,ehhthing,3,picoCTF 2022,Web Exploitation,,1706,500,False,False
+277,Live Art,zwad3,3,picoCTF 2022,Web Exploitation,,242,500,False,False
+276,Keygenme,LT 'syreal' Jones,3,picoCTF 2022,Reverse Engineering,"binary, keygen",2162,400,False,False
+272,function overwrite,Neel Bhavsar,3,picoCTF 2022,Binary Exploitation,"Array_bounds, Function_pointers",1463,400,False,False
+260,buffer overflow 3,Sanjay C / Palash Oswal,3,picoCTF 2022,Binary Exploitation,canary,1880,300,False,False
+222,not crypto,asphyxia,3,picoMini by redpwn,Reverse Engineering,,1612,150,False,False
+221,MATRIX,asphyxia,3,picoMini by redpwn,Reverse Engineering,,178,500,False,False
+220,breadth,asphyxia,3,picoMini by redpwn,Reverse Engineering,,723,200,False,False
+219,riscy business,asphyxia,3,picoMini by redpwn,Reverse Engineering,,193,350,False,False
+218,vr-school,notdeghost,3,picoMini by redpwn,Binary Exploitation,,121,500,False,False
+217,homework,tpa,3,picoMini by redpwn,Binary Exploitation,,103,400,False,False
+215,fermat-strings,notdeghost,3,picoMini by redpwn,Binary Exploitation,,538,250,False,False
+214,lockdown-horses,kfb,3,picoMini by redpwn,Binary Exploitation,,241,450,False,False
+213,SaaS,notdeghost,3,picoMini by redpwn,Binary Exploitation,,300,350,False,False
+212,college-rowing-team,Boolean,3,picoMini by redpwn,Cryptography,,1524,250,False,False
+211,corrupt-key-2,Tux,3,picoMini by redpwn,Cryptography,,41,500,False,False
+209,triple-secure,Boolean,3,picoMini by redpwn,Cryptography,,1962,150,False,False
+208,XtraORdinary,Boolean,3,picoMini by redpwn,Cryptography,,1623,150,False,False
+207,corrupt-key-1,Tux,3,picoMini by redpwn,Cryptography,,233,350,False,False
+206,scrambled-bytes,kfb,3,picoMini by redpwn,Forensics,,1087,200,False,False
+204,notepad,ginkoid,3,picoMini by redpwn,Web Exploitation,,2415,250,True,False
+190,Bithug,zwad3,3,picoCTF 2021,Web Exploitation,,1960,500,False,False
+187,Unsubscriptions Are Free,thelshell,3,picoCTF 2021,Binary Exploitation,,2160,100,False,False
+184,filtered-shellcode,madStacks,3,picoCTF 2021,Binary Exploitation,,844,160,False,False
+183,ARMssembly 4,Dylan McGuire,3,picoCTF 2021,Reverse Engineering,,1305,170,False,False
+182,Some Assembly Required 4,Sears Schulz,3,picoCTF 2021,Web Exploitation,,638,200,False,False
+181,Bizz Fuzz,madStacks,3,picoCTF 2021,Binary Exploitation,,1121,500,False,False
+179,Here's a LIBC,madStacks,3,picoCTF 2021,Binary Exploitation,,2149,90,False,False
+178,Turboflan,wparks,3,picoCTF 2021,Binary Exploitation,,118,600,False,False
+172,The Office,madStacks,3,picoCTF 2021,Binary Exploitation,,170,400,False,False
+171,gogo,thelshell,3,picoCTF 2021,Reverse Engineering,,1779,110,False,False
+168,Kit Engine,wparks,3,picoCTF 2021,Binary Exploitation,,390,375,False,False
+165,Hurry up! Wait!,syreal,3,picoCTF 2021,Reverse Engineering,,2849,100,False,False
+164,Stonk Market,madStacks,3,picoCTF 2021,Binary Exploitation,,341,180,False,False
+153,Some Assembly Required 3,Sears Schulz,3,picoCTF 2021,Web Exploitation,,1773,160,False,False
+151,Rolling My Own,Luke Rindels,3,picoCTF 2021,Reverse Engineering,,504,300,False,False
+150,ARMssembly 2,Dylan McGuire,3,picoCTF 2021,Reverse Engineering,,3116,90,False,False
+149,Checkpass,Jay Bosamiya,3,picoCTF 2021,Reverse Engineering,,220,375,False,False
+148,New Vignere,madStacks,3,picoCTF 2021,Cryptography,,1129,300,False,False
+146,Cache Me Outside,madStacks,3,picoCTF 2021,Binary Exploitation,,2321,70,False,False
+141,Very very very Hidden,Sara,3,picoCTF 2021,Forensics,,1874,300,False,False
+140,Double DES,madStacks,3,picoCTF 2021,Cryptography,,1576,120,False,False
+136,Clouds,madStacks,3,picoCTF 2021,Cryptography,,74,500,False,False
+135,Download Horsepower,wparks,3,picoCTF 2021,Binary Exploitation,,145,450,False,False
+127,Compress and Attack,Jake Beley,3,picoCTF 2021,Cryptography,,2152,130,False,False
+123,It's Not My Fault 1,rkm0959,3,picoCTF 2021,Cryptography,,1128,100,False,False
+122,Easy as GDB,McKade,3,picoCTF 2021,Reverse Engineering,,868,160,False,False
+119,Powershelly,Sara,3,picoCTF 2021,Reverse Engineering,,759,180,False,False
+117,Surfing the Waves,William Batista,3,picoCTF 2021,Forensics,,1224,150,False,False
+114,Play Nice,madStacks,3,picoCTF 2021,Cryptography,,2789,110,False,False
+107,Scrambled: RSA,Sara,3,picoCTF 2021,Cryptography,,942,140,False,False
+106,ARMssembly 3,Dylan McGuire,3,picoCTF 2021,Reverse Engineering,,1742,130,False,False
+102,Let's get dynamic,Ryan Ramseyer,3,picoCTF 2021,Reverse Engineering,,1287,150,False,False
+92,OTP Implementation,madStacks,3,picoCTF 2020 Mini-Competition,Reverse Engineering,,823,1,False,False
+90,Guessing Game 1,madStacks,3,picoCTF 2020 Mini-Competition,Binary Exploitation,,1218,1,False,False
+89,Guessing Game 2,madStacks,3,picoCTF 2020 Mini-Competition,Binary Exploitation,,461,1,False,False
+83,Investigative Reversing 3,Santiago C/Danny T,3,picoCTF 2019,Forensics,,545,400,False,False
+79,reverse_cipher,Danny Tunitis,3,picoCTF 2019,Reverse Engineering,,1946,300,False,False
+78,b00tl3gRSA3,invisibility,3,picoCTF 2019,Cryptography,,1270,450,False,False
+76,AES-ABC,waituckw,3,picoCTF 2019,Cryptography,,1813,400,False,False
+75,zero_to_hero,Claude,3,picoCTF 2019,Binary Exploitation,,169,500,False,False
+73,miniRSA,speeeday/Danny,3,picoCTF 2019,Cryptography,,4654,300,False,False
+72,asm3,Sanjay C,3,picoCTF 2019,Reverse Engineering,,1622,300,False,False
+70,Investigative Reversing 0,Danny Tunitis,3,picoCTF 2019,Forensics,,1727,300,False,False
+65,vault-door-7,Mark E. Haase,3,picoCTF 2019,Reverse Engineering,,3801,400,False,False
+63,droids2,Jason,3,picoCTF 2019,Reverse Engineering,,1881,400,False,False
+61,rsa-pop-quiz,wparks/nmontierth,3,picoCTF 2019,Cryptography,,3501,200,False,False
+57,B1ll_Gat35,Alex Bushkin,3,picoCTF 2019,Reverse Engineering,,1013,400,False,False
+56,B1g_Mac,Santiago C,3,picoCTF 2019,Forensics,,2689,500,False,False
+55,sice_cream,Samuel,3,picoCTF 2019,Binary Exploitation,,72,500,False,False
+54,Investigative Reversing 4,Santiago C/Danny T,3,picoCTF 2019,Forensics,,438,400,False,False
+50,seed-sPRiNG,John Hammond,3,picoCTF 2019,Binary Exploitation,,655,350,False,False
+47,investigation_encoded_1,Santiago C,3,picoCTF 2019,Forensics,,178,450,False,False
+42,WebNet1,Jason,3,picoCTF 2019,Forensics,,3997,450,False,False
+39,Need For Speed,Alexander Bushkin,3,picoCTF 2019,Reverse Engineering,,1288,400,False,False
+36,investigation_encoded_2,Santiago C,3,picoCTF 2019,Forensics,,158,500,False,False
+33,Java Script Kiddie 2,John Johnson,3,picoCTF 2019,Web Exploitation,,891,450,False,False
+32,WebNet0,Jason,3,picoCTF 2019,Forensics,,4590,350,False,False
+29,Java Script Kiddie,John Johnson,3,picoCTF 2019,Web Exploitation,,1391,400,False,False
+28,m00nwalk2,Joon,3,picoCTF 2019,Forensics,,2731,300,False,False
+27,Investigative Reversing 1,Danny Tunitis,3,picoCTF 2019,Forensics,,994,350,False,False
+24,Forky,Samuel,3,picoCTF 2019,Reverse Engineering,,2808,500,False,False
+23,droids3,Jason,3,picoCTF 2019,Reverse Engineering,,1907,450,False,False
+17,droids4,Jason,3,picoCTF 2019,Reverse Engineering,,2242,500,False,False
+16,asm2,Sanjay C,3,picoCTF 2019,Reverse Engineering,,3113,250,False,False
+14,droids1,Jason,3,picoCTF 2019,Reverse Engineering,,2054,350,False,False
+13,Investigative Reversing 2,Santiago C/Danny T,3,picoCTF 2019,Forensics,,670,350,False,False
+11,droids0,Jason,3,picoCTF 2019,Reverse Engineering,,2472,300,False,False
+10,vault-door-8,Mark E. Haase,3,picoCTF 2019,Reverse Engineering,,2785,450,False,False
+5,asm4,Sanjay C,3,picoCTF 2019,Reverse Engineering,,815,400,False,False
+2,b00tl3gRSA2,invisibility,3,picoCTF 2019,Cryptography,,2876,400,False,False
